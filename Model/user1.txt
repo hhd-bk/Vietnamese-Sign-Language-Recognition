@@ -1,0 +1,26 @@
+class 0: 1000
+class 1: 982
+class 2: 992
+class 3: 944
+class 4: 985
+class 5: 887
+class 6: 1000
+class 7: 982
+class 8: 942
+class 9: 954
+class 10: 996
+class 11: 985
+	class 12: 467
+class 13: 854
+class 14: 943
+class 15: 1000
+class 16: 999
+class 17: 969
+class 18: 983
+class 19: 995
+class 20: 998
+class 21: 997
+class 22: 959
+class 23: 1000
+class 24: 999
+class 25: 860
